@@ -59,7 +59,7 @@
 <h2 align="left">general github stats</h2>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theRealest555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=theRealest555&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
@@ -68,7 +68,7 @@
 </div>
 
 ###
-
+-->
 <h2 align="left">Connect with me</h2>
 
 ###
