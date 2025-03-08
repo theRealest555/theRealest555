@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?user=05aglaors7efh2gbohbaxtibx&count={5})" alt="[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=05aglaors7efh2gbohbaxtibx&count={5})"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5](https://spotify-recently-played-readme.vercel.app/api?user=05aglaors7efh2gbohbaxtibx&count={5}" alt="[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=05aglaors7efh2gbohbaxtibx&count={5}"  />
 </div>
 
 ###
