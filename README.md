@@ -80,10 +80,6 @@
 </div>
 
 ###
-<div align="center">
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&count=10&width=660&unique=1&duration=1&album=1&footer=wave)](https://open.spotify.com/user/05aglaors7efh2gbohbaxtibx)
-</div>
-###
 
 <img src="https://raw.githubusercontent.com/theRealest555/theRealest555/output/snake.svg" alt="Snake animation" />
 
