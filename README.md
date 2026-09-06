@@ -81,9 +81,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=05aglaors7efh2gbohbaxtibx&count=5" alt="[Spotify recently played]"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=dark&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=light&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=dark&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="400" />
+</picture>
 
 ###
 
