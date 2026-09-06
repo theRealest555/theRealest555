@@ -80,13 +80,9 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=dark&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=light&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&amp;theme=dark&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="400" />
-</picture>
-
+<div align="center">
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=05aglaors7efh2gbohbaxtibx&count=10&width=660&unique=1&duration=1&album=1&footer=wave)](https://open.spotify.com/user/05aglaors7efh2gbohbaxtibx)
+</div>
 ###
 
 <img src="https://raw.githubusercontent.com/theRealest555/theRealest555/output/snake.svg" alt="Snake animation" />
