@@ -138,6 +138,20 @@ I enjoy building scalable web applications, APIs, data-driven systems, and intel
 💼 Open to software engineering, full-stack, AI/Data internships, collaborations and international opportunities.
 </p>
 
+
+<h2 align="left">💡 Areas of Interest</h2>
+
+
+<p align="left">
+🤖 Artificial Intelligence & Machine Learning<br>
+📊 Data Science & Data Engineering<br>
+🌐 Full-Stack Web Development<br>
+⚙️ Backend & API Engineering<br>
+🏗️ Software Architecture<br>
+☁️ Cloud & DevOps
+</p>
+
+
 ###
 
 <div align="center">
