@@ -14,14 +14,14 @@ I enjoy building scalable web applications, APIs, data-driven systems, and intel
 ###
 
 <p align="left">
-🎓 4th-year Computer Engineering & Networks student at <b>EMSI</b>, specializing in <b>AI & Data</b><br>
+<!-- 🎓 4th-year Computer Engineering & Networks student at <b>EMSI</b>, specializing in <b>AI & Data</b><br> -->
 💻 Full-Stack Developer working with <b>React, TypeScript, Angular, .NET, Laravel, Node.js & Python</b><br>
 🤖 Currently diving deeper into <b>Artificial Intelligence, Machine Learning & Data Engineering</b><br>
-🏢 Completed IT & Full-Stack development internships at <b>TE Connectivity</b><br>
+<!-- 🏢 Completed IT & Full-Stack development internships at <b>TE Connectivity</b><br> -->
 🧠 Interested in <b>Software Engineering, AI/ML, Data & Backend Systems</b><br>
 🌍 Open to international opportunities, internships and collaborations<br>
 🎯 Goal: Build intelligent and scalable software that solves real-world problems<br>
-🎲 Fun fact: I can code faster than I can make coffee ☕💻
+<!-- 🎲 Fun fact: I can code faster than I can make coffee ☕💻 -->
 </p>
 
 ###
